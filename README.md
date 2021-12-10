@@ -7,5 +7,5 @@ The dataset used was obtained from [Waymo Open Dataset](https://waymo.com/open/d
 
 ## Environment
 The environment used to perform the tasks are:
-- Python 3.8.1
+- Python 3.8.8
 - Tensorflow 2.6.0
